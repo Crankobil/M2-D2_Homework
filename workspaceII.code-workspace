@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "M2-D2_Homework",
+			"path": "."
+		},
+		{
+			"name": "Assets",
+			"path": "..\\Assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "M2-D2_Homework"
+	}
+}
